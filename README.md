@@ -62,6 +62,7 @@ This is a C++ program that solves Sudoku puzzles using a backtracking algorithm.
 
 ## Author
 
-Misbah
+**Misbah**
+
 A passionate software engineering student and aspiring developer who loves solving problems through code.
 
